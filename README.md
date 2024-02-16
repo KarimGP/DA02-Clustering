@@ -1,0 +1,1 @@
+This is an specific case about data clustering of clients from a business depending on its consumption habits. That's the PowerBI link: https://app.powerbi.com/view?r=eyJrIjoiYTM2NmI5YzUtZTE3Ny00ZTMyLTljMDMtYTI1MmMyNGEzNjFmIiwidCI6Ijc1Y2Y2ZGEwLTdlMWEtNDk0Mi04Mjk1LWNlMzE2OTA3ZDdiMCJ9
